@@ -49,3 +49,10 @@ ol, ul {
   margin-left: 20px;
 }
 
+.historyElement {
+  padding-top: 0.4em;
+}
+
+.square--winning {
+  background-color: yellow;
+}
